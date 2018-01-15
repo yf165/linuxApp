@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <pthread.h>
-#define BUFSIZE 200
+#define BUFSIZE 100
 #include <pthread.h>
 
 char buf[BUFSIZE] = {0};
